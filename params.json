@@ -1,6 +1,6 @@
 {
   "name": "Jadrien-quest",
   "tagline": "Jadrien's Quest",
-  "body": "### Welcome to Jadrien's quest project.\r\nJadrien's quest is a Rogue-like 2D game, in the universe of Alice in Wonderland. Alice will travel between dreams and nightmares, in a quest to face her own fears.\r\n\r\n### Authors and Contributors\r\nThe game is developed by two people only, @AliceChester and @Aye1, on our spare time.\r\n\r\n### Support or Contact\r\nIf you want any information about the game, feel free to mail us at janvier.adrien@gmail.com.\r\n",
+  "body": "### Welcome to Jadrien's quest project.\r\nJadrien's quest is a Rogue-like 2D game, in the universe of Alice in Wonderland. Alice will travel between dreams and nightmares, in a quest to face her own fears.\r\n\r\n### Tools\r\n* The game is developed in the Unity engine.\r\n* The room are currently generated using [Tiled](http://www.mapeditor.org/).\r\n\r\n### Authors and Contributors\r\nThe game is developed by two people only, @AliceChester and @Aye1, on our spare time.\r\n\r\n### Support or Contact\r\nIf you want any information about the game, feel free to mail us at janvier.adrien@gmail.com.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
